@@ -1,0 +1,10 @@
+hash: a96792c01a2dca67b80553010f6166d4475d5b29c669397c11dcdc22565bd161
+updated: 2018-08-09T09:57:32.6717563+07:00
+imports:
+- name: github.com/labstack/echo
+  version: 6d227dfea4d2e52cb76856120b3c17f758139b4e
+- name: gopkg.in/dgrijalva/jwt-go.v2
+  version: 06ea1031745cb8b3dab3f6a236daf2b0aa468b7e
+- name: gopkg.in/mgo.v2
+  version: 9856a29383ce1c59f308dd1cf0363a79b5bef6b5
+testImports: []
